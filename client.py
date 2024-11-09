@@ -1,0 +1,1 @@
+# Allows a user to connect to the server, send their word choice, and receive the result.

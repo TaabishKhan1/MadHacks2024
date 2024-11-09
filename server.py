@@ -1,0 +1,1 @@
+# Manages the queue of users, pairs them, and handles the game logic.
